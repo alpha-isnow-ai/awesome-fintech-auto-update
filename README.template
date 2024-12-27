@@ -1,0 +1,11 @@
+# awesome-awesome-fintech-auto-update
+
+> A nimble automation tool that keeps tabs on GitHub's top 50 repositories using keywords from [keywords.json](keywords.json), with a special focus on "awesome-" curated lists. It updates weekly by GitHub Actions. The tracked repositories often feature popular awesome lists—community-driven collections of frameworks, tools, and learning materials. Saving you 1s — because every second counts. 😉
+
+## Projects
+
+{{ projects_list }}
+
+## Last Updated
+
+{{ last_updated }}
