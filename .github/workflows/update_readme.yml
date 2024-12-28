@@ -28,7 +28,7 @@ jobs:
       - name: Run update script
         run: python update_readme.py
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.AWESOME_SEARCH }}
 
       - name: Commit changes
         run: |

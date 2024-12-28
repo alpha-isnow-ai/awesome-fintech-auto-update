@@ -6,8 +6,8 @@ from datetime import datetime
 
 load_dotenv()
 
-GITHUB_TOKEN = os.getenv("GH_TOKEN")
-print(GITHUB_TOKEN)
+AWESOME_SEARCH = os.getenv("AWESOME_SEARCH")
+print(AWESOME_SEARCH)
 
 
 def read_keywords():
@@ -17,7 +17,7 @@ def read_keywords():
 
 def search_awesome_projects(keyword):
     url = "https://api.github.com/search/repositories"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    headers = {"Authorization": f"token {AWESOME_SEARCH}"}
     params = {"q": f"{keyword} awesome in:name", "sort": "stars", "order": "desc"}
     response = requests.get(url, headers=headers, params=params)
     response.raise_for_status()
