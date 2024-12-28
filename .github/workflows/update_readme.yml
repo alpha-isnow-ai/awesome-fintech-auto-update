@@ -28,7 +28,7 @@ jobs:
       - name: Run update script
         run: python update_readme.py
         env:
-          GH_TOKEN: ${{ secrets.AWESOME_SEARCH }}
+          AWESOME_SEARCH: ${{ secrets.AWESOME_SEARCH }}
 
       - name: Commit changes
         run: |
@@ -38,4 +38,4 @@ jobs:
           git commit -m "Update README.md"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AWESOME_SEARCH }}
