@@ -1,4 +1,4 @@
-# awesome-awesome-fintech-auto-update
+# awesome-fintech-auto-update
 
 > A nimble automation tool that keeps tabs on GitHub's top 50 repositories using keywords from [keywords.json](keywords.json), with a special focus on "awesome-" curated lists. It updates weekly by GitHub Actions. The tracked repositories often feature popular awesome lists—community-driven collections of frameworks, tools, and learning materials. Saving you 1s — because every second counts. 😉
 
@@ -11,13 +11,13 @@
   - ⭐ 13106
   - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - **[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)**
-  - ⭐ 4341
+  - ⭐ 4345
   - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - **[awesome-blockchains](https://github.com/openblockchains/awesome-blockchains)**
   - ⭐ 3740
   - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. 
 - **[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)**
-  - ⭐ 3659
+  - ⭐ 3660
   - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - **[awesome-blockchain](https://github.com/yjjnls/awesome-blockchain)**
   - ⭐ 3321
@@ -26,10 +26,10 @@
   - ⭐ 2770
   - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - **[awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)**
-  - ⭐ 2423
+  - ⭐ 2422
   - Collect libraries and packages about blockchain/cryptography in Rust
 - **[awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)**
-  - ⭐ 2209
+  - ⭐ 2211
   - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - **[awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)**
   - ⭐ 1907
