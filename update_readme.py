@@ -7,6 +7,7 @@ from datetime import datetime
 load_dotenv()
 
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
+print(GITHUB_TOKEN)
 
 
 def read_keywords():
