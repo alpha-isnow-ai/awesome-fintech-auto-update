@@ -5,52 +5,52 @@
 ## Projects
 
 - **[awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)**
-  - ⭐ 18802
+  - ⭐ 18812
   - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - **[awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**
-  - ⭐ 13526
+  - ⭐ 13538
   - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - **[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)**
-  - ⭐ 5709
+  - ⭐ 5767
   - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - **[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)**
-  - ⭐ 4294
+  - ⭐ 4312
   - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - **[awesome-blockchains](https://github.com/openblockchains/awesome-blockchains)**
-  - ⭐ 3761
+  - ⭐ 3763
   - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. 
 - **[awesome-blockchain](https://github.com/yjjnls/awesome-blockchain)**
-  - ⭐ 3491
+  - ⭐ 3492
   - ⚡️Curated list of resources for the development and applications of blockchain.
 - **[Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)**
-  - ⭐ 3148
+  - ⭐ 3155
   - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - **[awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)**
-  - ⭐ 2930
+  - ⭐ 2947
   - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - **[awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)**
-  - ⭐ 2644
+  - ⭐ 2646
   - Collect libraries and packages about blockchain/cryptography in Rust
 - **[awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)**
-  - ⭐ 2190
+  - ⭐ 2202
   - Awesome crypto trading bots
 - **[awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading)**
-  - ⭐ 1694
+  - ⭐ 1703
   - List of awesome resources for machine learning-based algorithmic trading
 - **[awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance)**
-  - ⭐ 1535
+  - ⭐ 1537
   - A curated list of awesome decentralized finance projects
 - **[awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)**
-  - ⭐ 1282
+  - ⭐ 1287
   - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......
 - **[awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai)**
   - ⭐ 1041
   - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 - **[awesome-blockchain](https://github.com/dily3825002/awesome-blockchain)**
-  - ⭐ 1025
+  - ⭐ 1027
   - 区块链白皮书、书籍、交易所、币种、自媒体等资源汇总 💯
 - **[awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading)**
-  - ⭐ 895
+  - ⭐ 896
   - A curated list of awesome algorithmic trading frameworks, libraries, software and resources
 - **[awesome-blockchain](https://github.com/imbaniac/awesome-blockchain)**
   - ⭐ 869
@@ -59,16 +59,16 @@
   - ⭐ 648
   - Curated list of projects that build non-financial applications of blockchain
 - **[awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)**
-  - ⭐ 639
+  - ⭐ 638
   - Curated list of the bitcoin blockchain services
 - **[awesome-blockchain-articles](https://github.com/hylinux1024/awesome-blockchain-articles)**
   - ⭐ 569
   - A collection of awesome blockchain articles. Good learning resources about blockchain. 
 - **[awesome-tradingview](https://github.com/tradingview/awesome-tradingview)**
-  - ⭐ 476
+  - ⭐ 479
   - 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
 - **[awesome-financial-nlp](https://github.com/icoxfog417/awesome-financial-nlp)**
-  - ⭐ 423
+  - ⭐ 426
   - Researches for Natural Language Processing for Financial Domain
 - **[awesome-venom](https://github.com/venom-blockchain/awesome-venom)**
   - ⭐ 400
@@ -80,22 +80,22 @@
   - ⭐ 337
   - A curated list of amazingly awesome financial libraries, resources and shiny things.
 - **[awesome-blockchain-kor](https://github.com/yunho0130/awesome-blockchain-kor)**
-  - ⭐ 301
+  - ⭐ 302
   - <블록체인의 정석 The Art of Blockchain>, <하이퍼레저 블록체인 개발 Hands-On Blockchain with Hyperledger> 소스코드 및 참고자료 저장소
 - **[awesome_osint_blockchain_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis)**
-  - ⭐ 293
+  - ⭐ 294
   - A list of useful Crypto resources for OSINT investigations
 - **[awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)**
   - ⭐ 270
   - A curated list of privacy on blockchains resources
 - **[awesome-stock-trading](https://github.com/shi-rudo/awesome-stock-trading)**
-  - ⭐ 254
+  - ⭐ 260
   - Curated list of resources for traders, such as tools, websites, and books related to trading stocks.
 - **[Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)**
-  - ⭐ 217
+  - ⭐ 218
   - Resources
 - **[awesome-bigquery-views](https://github.com/blockchain-etl/awesome-bigquery-views)**
-  - ⭐ 211
+  - ⭐ 210
   - Useful SQL queries for Blockchain ETL datasets in BigQuery.
 - **[awesome-blockchain](https://github.com/coderplex-org/awesome-blockchain)**
   - ⭐ 204
@@ -103,7 +103,10 @@
 - **[awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)**
   - ⭐ 203
   - 😎 Curated list about cryptocurrency security (reverse / exploit / fuzz..)
+- **[awesome-fintech](https://github.com/moov-io/awesome-fintech)**
+  - ⭐ 201
+  - A curated collection of open source fintech libraries and resources.
 
 ## Last Updated
 
-2025-08-04
+2025-08-11
